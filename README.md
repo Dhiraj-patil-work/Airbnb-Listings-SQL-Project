@@ -16,7 +16,7 @@ This project contains SQL queries for analyzing Airbnb listings data. The datase
 - Availability
 - Number of Reviews
 - Room Type
-- ... (add more if needed)
+- and others etc.
 
 <h2>Analysis Performed</h2>
 
