@@ -25,14 +25,8 @@ This project contains SQL queries for analyzing Airbnb listings data. The datase
 - Listings availability per region
 - Average price by room type
 
-<h2>How to Use</h2>
-
-1. Clone the repository or download the SQL file.
-2. Use any SQL database (MySQL, PostgreSQL, etc.) to run the queries.
-3. Ensure the dataset is loaded into your database to execute the queries.
-
 <h2>Technologies Used</h2>
-- SQL
+- MYSQL
 
 <h2>License</h2>
 
